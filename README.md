@@ -28,7 +28,7 @@ Mod制作和应用前请备份AppData\LocalLow\InsightStudio\GodForsakenRelease\
   - info.ini（重要，mod的配置文件）
   - preview.png（正方形的预览图，建议分辨率 `256*256`）
 
-[Mod 文件夹示例](ReleaseExample/ConfigMod/)
+[Mod 文件夹示例](ConfigMod/)
 
 ### info.ini 格式
 
